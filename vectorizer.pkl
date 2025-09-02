@@ -1,0 +1,7 @@
+���      �sklearn.feature_extraction.text��TfidfVectorizer���)��}�(�input��content��encoding��utf-8��decode_error��strict��
+strip_accents�N�preprocessor�N�	tokenizer�N�analyzer��word��	lowercase���
+token_pattern��
+(?u)\b\w\w+\b��
+stop_words�N�max_df�G?�      �min_df�K�max_features�M��ngram_range�KK���
+vocabulary�N�binary���dtype��numpy��float64����norm��l2��use_idf���
+smooth_idf���sublinear_tf���_sklearn_version��1.6.1�ub.
